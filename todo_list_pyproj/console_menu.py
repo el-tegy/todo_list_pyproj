@@ -1,6 +1,6 @@
 from consolemenu import *
 from consolemenu.items import *
-from task_list import *
+from todo_list_pyproj.task_list import *
 
 menu = ConsoleMenu("Your TO-DO List ", "This is the list of your planned tasks. Feel free to add or remove tasks as you wish.")
 

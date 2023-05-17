@@ -1,4 +1,4 @@
-from task import Task
+from todo_list_pyproj.task import Task
 
 taskList = []
 
